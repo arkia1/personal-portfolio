@@ -40,7 +40,7 @@ const Navigation = () => {
       icon: <Linkedin size={20} />,
       link: "https://www.linkedin.com/in/arkia-ebrahimi/",
     },
-    { icon: <Twitter size={20} />, link: "https://twitter.com/" },
+    // { icon: <Twitter size={20} />, link: "https://twitter.com/" },
   ];
 
   // Animation variants
