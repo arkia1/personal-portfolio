@@ -110,7 +110,7 @@ const Projects = () => {
     {
       title: "Broker App",
       description:
-        "A weather application that provides current conditions and forecasts for any location, with interactive maps and data visualization.",
+        "A Data visualizing application that provides realtime and historical data trough charts and can get its data from multiple brokers.",
       image: BROKER_APP,
       technologies: [
         "JavaScript",
