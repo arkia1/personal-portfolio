@@ -92,7 +92,7 @@ const Projects = () => {
     {
       title: "Vector Embedded Prompt Improver (VEPI)",
       description:
-        "A full-stack e-commerce application with user authentication, product catalog, shopping cart, and payment integration.",
+        "An AI-powered tool that helps you improve your prompts with relevant references through vector embedding and ai-search.",
       image: VEPI_LOGO,
       technologies: ["Express", "Node.js", "OpenAI", "MongoDB", "Typescript"],
       github: "https://github.com/arkia1/VEPI",
