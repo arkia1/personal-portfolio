@@ -163,8 +163,8 @@ const AboutMe = () => {
             >
               I am a full-stack web developer and software engineering student
               with practical experience in building dynamic, responsive web
-              applications. Currently interning at GUNSEL Company, I specialize
-              in front-end development using React.js, TypeScript, and Tailwind
+              applications. Currently working at GUNSEL Company, I specialize in
+              front-end development using React.js, TypeScript, and Tailwind
               CSS. On the backend, I excel with Node.js and Express—my go-to
               stack for building robust, scalable systems.
             </motion.p>
