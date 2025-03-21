@@ -203,13 +203,13 @@ const Navigation = () => {
             <div className="md:hidden flex items-center">
               <motion.button
                 onClick={toggleMenu}
-                className="text-white hover:text-blue-300 focus:outline-none transition-colors duration-300"
+                className="text-blue-400 hover:text-blue-300 focus:outline-none transition-colors duration-300"
                 whileTap={{ scale: 0.9 }}
               >
                 {isMenuOpen ? (
                   <X size={24} />
                 ) : (
-                  <Menu size={24} className="blue-500" />
+                  <Menu size={24} className="to-blue-400" />
                 )}
               </motion.button>
             </div>
