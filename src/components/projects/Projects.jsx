@@ -98,15 +98,21 @@ const Projects = () => {
       github: "https://github.com/arkia1/VEPI",
       liveLink: null,
     },
-    // {
-    //   title: "Task Management App",
-    //   description:
-    //     "A productivity application that helps users organize tasks with features like drag-and-drop, priority levels, and deadline notifications.",
-    //   image: "/api/placeholder/800/450",
-    //   technologies: ["React", "TypeScript", "Redux", "Firebase"],
-    //   github: "https://github.com/yourusername/task-manager",
-    //   liveLink: "https://your-task-app.com",
-    // },
+    {
+      title: "Vortex Running Club Landing Page",
+      description:
+        "A modern, resposive and minimalistic landing page for a running club done in nextjs.",
+      image: "/api/placeholder/800/450",
+      technologies: [
+        "NextJs",
+        "TypeScript",
+        "Shadcn UI",
+        "Tailwind CSS",
+        "Vercel",
+      ],
+      github: "https://github.com/arkia1/vortex-running-club",
+      liveLink: "https://vortex-running-club.vercel.app/",
+    },
     {
       title: "Broker App",
       description:
