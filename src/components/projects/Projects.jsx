@@ -102,7 +102,7 @@ const Projects = () => {
       title: "Vortex Running Club Landing Page",
       description:
         "A modern, resposive and minimalistic landing page for a running club done in nextjs.",
-      image: "/api/placeholder/800/450",
+      image: "/vortex.jpg",
       technologies: [
         "NextJs",
         "TypeScript",
