@@ -130,6 +130,19 @@ const Projects = () => {
       github: "https://github.com/arkia1/multi-broker-app",
       liveLink: null,
     },
+    {
+      title: "Punica Landing Page",
+      description:
+        "A complete multi-page landing page for Punica, an all in one HR solution",
+      image: "https://punica.app/assets/hero-DjMsPNAc.png",
+      technologies: [
+        "JavaScript",
+        "React",
+        "Tailwind CSS",
+      ],
+      github: null,
+      liveLink: "https://punica.app",
+    },
     // {
     //   title: "Portfolio Website",
     //   description:
